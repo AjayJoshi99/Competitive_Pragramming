@@ -11,11 +11,11 @@ class Solution:
         while head and head.val == val:
             head = head.next
         ptr = head 
-            
-        while ptr and ptr.next :
-            if ptr.next.val == val :
-                ptr.next = ptr.next.next
-            else:
-                ptr = ptr.next
+        if ptr:   
+            while ptr.next :
+                if ptr.next.val == val :
+                    ptr.next = ptr.next.next
+                else:
+                    ptr = ptr.next
                
         return head
