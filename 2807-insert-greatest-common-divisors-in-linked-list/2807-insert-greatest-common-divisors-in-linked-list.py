@@ -3,13 +3,13 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-import math
+from  math import gcd
 class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         ptr = head 
         while ptr.next:
             node = ListNode()
-            node.val = math.gcd(ptr.val, ptr.next.val)
+            node.val = gcd(ptr.val, ptr.next.val)
             temp = ptr.next
             ptr.next = node
             node.next = temp
