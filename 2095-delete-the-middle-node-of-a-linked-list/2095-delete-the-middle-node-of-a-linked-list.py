@@ -11,7 +11,7 @@ class Solution:
         while ptr :
             count+=1
             ptr = ptr.next    
-        count = math.floor(count/2) - 1
+        count =count//2- 1
         ptr = head
         while count :
             ptr = ptr.next
