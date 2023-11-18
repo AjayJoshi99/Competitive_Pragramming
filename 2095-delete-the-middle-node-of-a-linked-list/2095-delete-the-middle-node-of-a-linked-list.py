@@ -11,12 +11,13 @@ class Solution:
         while ptr :
             count+=1
             ptr = ptr.next    
-        count =count//2- 1
+        count =count//2 - 1
         ptr = head
         while count :
             ptr = ptr.next
             count-=1
         ptr.next = ptr.next.next
+        ptr = None
         return head
             
         
