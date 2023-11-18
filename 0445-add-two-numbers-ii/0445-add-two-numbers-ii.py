@@ -11,12 +11,10 @@ class Solution:
         while ptr :
             num1 = num1*10 + ptr.val
             ptr = ptr.next
-        l1 = None
         ptr = l2
         while ptr :
             num2 = num2*10 + ptr.val
             ptr = ptr.next
-        l2 = None
         s = str(num1+num2)
         s = s[::-1]
         head = None
