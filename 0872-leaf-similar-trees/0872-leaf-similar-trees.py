@@ -17,7 +17,7 @@ class Solution:
             return l
         l1 = leaf(root1,l1)
         l2 = leaf(root2,l2)
-        return True if l1 == l2 else False
+        return l1 == l2 
         
       
     
