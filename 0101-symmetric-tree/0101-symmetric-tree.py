@@ -17,7 +17,6 @@ class Solution:
             return False
         if leftroot.val != rightroot.val:
             return False
-
         return self.isSame(leftroot.left, rightroot.right) and self.isSame(leftroot.right, rightroot.left)
         
         
