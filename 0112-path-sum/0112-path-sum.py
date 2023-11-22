@@ -9,7 +9,7 @@ class Solution:
         if not root : return False
         return self.check(root, targetSum, 0)
         
-    def check(self, root: Optional[TreeNode], targetSum: int, currentSum=0):
+    def check(self, root, targetSum, currentSum):
         currentSum += root.val
         if not root.right and not root.left and targetSum == currentSum : return True
         if not root.right and not root.left and targetSum != currentSum : 
