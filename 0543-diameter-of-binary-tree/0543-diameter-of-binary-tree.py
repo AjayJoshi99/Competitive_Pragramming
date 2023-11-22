@@ -7,13 +7,14 @@
 class Solution:
     currM = 0
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        
-        def func(r):
-            if not r : return 0
-            fl = func(r.left)
-            fr = func(r.right)
-            temp = fl + fr  
-            if temp > self.currM : self.currM = temp
-            return max(fl,fr) + 1
-        func(root)
+        self.func(root)
         return self.currM
+        
+    def func(self,r):
+        if not r : return 0
+        fl = self.func(r.left)
+        fr = self.func(r.right)
+        temp = fl + fr  
+        if temp > self.currM : self.currM = temp
+        return max(fl,fr) + 1
+        
