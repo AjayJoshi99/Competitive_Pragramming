@@ -13,7 +13,6 @@ class Solution:
         if not root : return 0
         ls = self.find_sum(root.left)
         rs = self.find_sum(root.right)
-        self.sum_ += abs(ls-rs)   
-            
+        self.sum_ += abs(ls-rs)     
         return ls+rs+root.val
             
