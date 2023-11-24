@@ -4,17 +4,17 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from queue import Queue
+
 class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
-            q = Queue()
-            q.put(root)
+            q = []
+            q.append(root)
             val = root.val
-            while not q.empty():
-                node = q.get()
+            while q :
+                node = q.pop()
                 if node.val != val : return False
-                if node.left : q.put(node.left)
-                if node.right : q.put(node.right)
+                if node.left : q.append(node.left)
+                if node.right : q.append(node.right)
                     
                     
             return True
