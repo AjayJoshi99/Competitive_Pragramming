@@ -9,13 +9,14 @@ class Solution:
         range_sum = 0
         def inorder(r):
             nonlocal range_sum
-            if r.left : inorder(r.left)
-            if r.val >= low and r.val <= high :
+            if not r : return
+            inorder(r.left)
+            if r.val > low and r.val < high :
                 range_sum += r.val
-            if r.right : inorder(r.right)
+            inorder(r.right)
         
         inorder(root)
-        return range_sum 
+        return range_sum + low + high
                 
                 
                 
