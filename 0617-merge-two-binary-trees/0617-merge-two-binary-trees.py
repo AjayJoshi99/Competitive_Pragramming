@@ -10,14 +10,15 @@ class Solution:
         if not root1 and root2 : return root2
         if not root2 and root1 : return root1
         
-        def generate(r1,r2):
-            if not r1 and not r2 : return None
-            if r1 and not r2 : return TreeNode(r1.val)
-            if r2 and not r1 : return TreeNode(r2.val)
-            return TreeNode(r1.val+r2.val)
+       
+           
             
         def createTree(r1,r2,r):
-            r = generate(r1,r2)
+            if not r1 and not r2 : r= None
+            elif r1 and not r2 : r = TreeNode(r1.val)
+            elif r2 and not r1 : r = TreeNode(r2.val)
+            else : r = TreeNode(r1.val+r2.val)
+            
             if r1 and r2 :
                 r.left = createTree(r1.left,r2.left,r)
                 r.right = createTree(r1.right,r2.right,r)
@@ -28,7 +29,6 @@ class Solution:
                 r.left = createTree(r1.left,None,r)
                 r.right = createTree(r1.right,None,r)
             return r
-        root = None
-        return createTree(root1,root2,root)
+        return createTree(root1,root2,None)
         
         
