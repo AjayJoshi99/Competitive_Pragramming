@@ -9,12 +9,12 @@ class Solution:
         if not root : return TreeNode(val)
         if root.val < val:
             if root.right :
-                self.insertIntoBST(root.right,val)
+                root.right = self.insertIntoBST(root.right,val)
             else:
                 root.right = TreeNode(val)
         else :
             if root.left :
-                self.insertIntoBST(root.left,val)
+                root.left = self.insertIntoBST(root.left,val)
             else:
                 root.left = TreeNode(val)
         return root
