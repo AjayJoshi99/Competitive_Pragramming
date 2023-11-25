@@ -13,9 +13,9 @@ class Solution:
             else:
                 root.right = TreeNode(val)
         else :
-             if root.left :
+            if root.left :
                 self.insertIntoBST(root.left,val)
-             else:
+            else:
                 root.left = TreeNode(val)
         return root
             
