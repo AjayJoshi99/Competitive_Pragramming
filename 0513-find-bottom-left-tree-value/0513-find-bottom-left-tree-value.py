@@ -9,8 +9,7 @@ class Solution:
     val = 0
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
         self.find(root,1)
-        return self.val
-        
+        return self.val    
     def find(self,root,lvl):
         if not root : return 
         if self.hl < lvl :
