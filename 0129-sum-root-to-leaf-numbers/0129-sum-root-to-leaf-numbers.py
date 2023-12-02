@@ -10,12 +10,11 @@ class Solution:
         self.find(root,0)
         return self.s   
     def find(self,root,t):
+        if not root : return
         t = t*10 + root.val
         if not root.left and not root.right: 
             self.s = self.s + t
         else :
-            if root.left : 
-                self.find(root.left,t)
-            if root.right :
-                self.find(root.right,t)
+            self.find(root.left,t)    
+            self.find(root.right,t)
         
