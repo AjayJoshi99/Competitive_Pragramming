@@ -8,13 +8,12 @@ class Solution:
     s = 0
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         self.find(root,0)
-        return self.s
-        
+        return self.s   
     def find(self,root,t):
+        t = t*10 + root.val
         if not root.left and not root.right: 
-            self.s = self.s + t*10 + root.val
+            self.s = self.s + t
         else :
-            t = t*10 + root.val
             if root.left : 
                 self.find(root.left,t)
             if root.right :
