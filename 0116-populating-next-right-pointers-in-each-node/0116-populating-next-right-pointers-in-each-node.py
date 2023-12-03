@@ -21,16 +21,17 @@ class Solution:
                 head = head.next
             node = node.left
         return root
-        
-        # if not root : return root
-        # q = [root]
-        # while q:
-        #     t = len(q)
-        #     for i in range(t):
-        #         node = q.pop(0)
-        #         if i != t-1:
-        #             node.next = q[0]    
-        #         if node.right :
-        #             q.append(node.left)
-        #             q.append(node.right)  
-        # return root
+        '''
+        if not root : return root
+        q = [root]
+        while q:
+            t = len(q)
+            for i in range(t):
+                node = q.pop(0)
+                if i != t-1:
+                    node.next = q[0]    
+                if node.right :
+                    q.append(node.left)
+                    q.append(node.right)  
+        return root
+        '''
