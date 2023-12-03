@@ -10,10 +10,8 @@ class Node:
 class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if not root : return root
-        q = list()
-        q.append(root)
+        q = [root]
         while q:
-            temp = []
             t = len(q)
             for i in range(t):
                 node = q.pop(0)
@@ -23,6 +21,5 @@ class Solution:
                     node.next = q[0]
                 if node.right :
                     q.append(node.left)
-                    q.append(node.right)
-                   
+                    q.append(node.right)  
         return root
