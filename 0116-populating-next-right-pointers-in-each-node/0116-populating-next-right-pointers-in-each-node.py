@@ -15,10 +15,8 @@ class Solution:
             t = len(q)
             for i in range(t):
                 node = q.pop(0)
-                if i == t-1:
-                    node.next = None
-                else :
-                    node.next = q[0]
+                if i != t-1:
+                    node.next = q[0]    
                 if node.right :
                     q.append(node.left)
                     q.append(node.right)  
