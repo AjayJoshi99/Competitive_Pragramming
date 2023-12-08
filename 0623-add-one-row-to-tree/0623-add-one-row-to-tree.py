@@ -20,16 +20,8 @@ class Solution:
                 temp.append(node)
             if node.left: s.append((node.left,d+1))
             if node.right: s.append((node.right,d+1))
-                
         while temp:
             node = temp.pop()
-            if node.left :
-                node.left = TreeNode(val,node.left)
-            if node.right :
-                node.right = TreeNode(val,None,node.right)
-            if not node.left:
-                node.left=TreeNode(val)
-            if not node.right :
-                node.right=TreeNode(val)
-                
+            node.left  = TreeNode(val, left  = node.left)
+            node.right = TreeNode(val, right = node.right)
         return root
