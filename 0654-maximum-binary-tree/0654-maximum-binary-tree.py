@@ -6,11 +6,10 @@
 #         self.right = right
 class Solution:
     def constructMaximumBinaryTree(self, nums: List[int]) -> Optional[TreeNode]:
-        if not nums : 
-            return None
-        m = max(nums)
-        i = nums.index(max(nums))
-        root = TreeNode(nums[i])
-        root.left = self.constructMaximumBinaryTree(nums[:i])
-        root.right = self.constructMaximumBinaryTree(nums[i+1:])
+        if not nums : return None
+        m=max(nums)
+        i=nums.index(max(nums))
+        root=TreeNode(nums[i])
+        root.left=self.constructMaximumBinaryTree(nums[:i])
+        root.right=self.constructMaximumBinaryTree(nums[i+1:])
         return root
