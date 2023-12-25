@@ -7,7 +7,6 @@ class MyQueue:
     def push(self, x: int) -> None:
         self.in_stk.append(x)
 
-
     def pop(self) -> int:
         self.peek()
         return self.out_stk.pop()
