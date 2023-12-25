@@ -11,5 +11,7 @@ class Solution:
 
         for x in nums1:
             ans.append(d.get(x, -1))
-            
+            '''dictionary.get(keyname, value)
+                value :  A value to return if the specified key does not exist.
+                            Default value None'''
         return ans
