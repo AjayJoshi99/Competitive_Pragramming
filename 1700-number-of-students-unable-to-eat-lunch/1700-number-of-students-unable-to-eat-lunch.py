@@ -4,6 +4,7 @@ class Solution:
             if sandwiches[0] in students:
                 students.remove(sandwiches[0])
                 sandwiches.pop(0)
-            else:break
+            else:
+                break
         return len(sandwiches)
             
