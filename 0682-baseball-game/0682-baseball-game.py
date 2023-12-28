@@ -1,5 +1,5 @@
 class Solution:
-    def calPoints(self, operations: List[str]) -> int:
+    def calPoints(self,operations: List[str]) -> int:
         s = []
         for i in operations:
             if i =='+':
