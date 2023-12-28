@@ -3,9 +3,11 @@ class Solution:
         s = []
         for i in operations:
             if i =='+':
-                s.append(s[-1]+s[-2])
+                t = s[-1]+s[-2]
+                s.append(t)
             elif i == 'D':
-                s.append(s[-1]*2)
+                t = s[-1]*2
+                s.append(t)
             elif i == 'C':
                 s.pop()
             else:
