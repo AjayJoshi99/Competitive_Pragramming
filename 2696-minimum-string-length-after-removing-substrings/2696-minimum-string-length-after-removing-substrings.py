@@ -12,8 +12,7 @@ class Solution:
                     top-=1
                 else :
                     stack.append(s[i])
-                    top+=1
-                    
+                    top+=1           
         return top+1
                 
                 
