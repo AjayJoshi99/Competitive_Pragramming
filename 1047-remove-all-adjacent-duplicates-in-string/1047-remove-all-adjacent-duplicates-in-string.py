@@ -1,9 +1,9 @@
 class Solution:
     def removeDuplicates(self, s: str) -> str:
         ans = []
-        l = 0
+        l = -1
         for i in range(len(s)):
-            if l and s[i]== ans[-1]:
+            if l+1 and s[i]== ans[l]:
                 ans.pop()
                 l-=1
             else :
