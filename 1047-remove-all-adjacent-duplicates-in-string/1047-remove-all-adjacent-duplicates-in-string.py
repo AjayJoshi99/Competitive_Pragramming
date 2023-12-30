@@ -2,13 +2,10 @@ class Solution:
     def removeDuplicates(self, s: str) -> str:
         ans = []
         for i in range(len(s)):
-            if len(ans) and ans[-1] != s[i]:
-                ans.append(s[i])
-            elif not len(ans) :
-                ans.append(s[i])
+            if ans and s[i]== ans[-1]:
+                ans.pop()
             else :
-                while len(ans) and ans[-1] == s[i]:
-                    ans.pop()
+                ans.append(s[i])
         return "".join(ans)
                     
                 
