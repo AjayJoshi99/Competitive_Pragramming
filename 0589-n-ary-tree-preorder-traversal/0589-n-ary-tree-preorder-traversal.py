@@ -11,12 +11,10 @@ class Solution:
             return []
         stack = [root]
         output = []
-        
         while stack:
             top = stack.pop()
             output.append(top.val)
             stack.extend(reversed(top.children))
-        
         return output
                 
             
