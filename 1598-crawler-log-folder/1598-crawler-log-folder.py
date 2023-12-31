@@ -3,7 +3,7 @@ class Solution:
         c = 0 
         for i in logs:
             if i =='../': 
-                if c : c-=1
+                c = max(0,c-1)
             elif i == './': pass
             else: c+=1
         return c
