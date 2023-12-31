@@ -8,8 +8,7 @@ class Node:
 
 class Solution:
     def postorder(self, root: 'Node') -> List[int]:
-        if not root:
-            return []
+        if not root: return []
         stack = [root]
         output = []
         while stack:
