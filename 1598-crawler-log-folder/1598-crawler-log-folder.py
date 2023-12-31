@@ -1,9 +1,9 @@
 class Solution:
     def minOperations(self, logs: List[str]) -> int:
         c = 0 
-        for i in range(len(logs)):
-            if logs[i] =='../': 
+        for i in logs:
+            if i =='../': 
                 c = max(0,c-1)
-            elif logs[i] == './': pass
+            elif i == './': pass
             else: c+=1
         return c
