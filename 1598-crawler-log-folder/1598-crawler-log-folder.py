@@ -1,5 +1,5 @@
-class Solution:
-    def minOperations(self, logs: List[str]) -> int:
+class Solution(object):
+    def minOperations(self, logs):
         c = 0 
         for i in logs:
             if i =='../': 
