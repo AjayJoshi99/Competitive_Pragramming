@@ -1,5 +1,5 @@
-class Solution:
-    def maxDepth(self, s: str) -> int:
+class Solution(object):
+    def maxDepth(self, s):
         c = 0 
         mx = 0
         for i in s :
@@ -9,3 +9,4 @@ class Solution:
                     mx = c
                 c-=1
         return mx
+        
