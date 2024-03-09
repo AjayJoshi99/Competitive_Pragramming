@@ -4,7 +4,7 @@ class Solution:
         nums2.sort()
         l = len(nums1)
         dp = [[0] * (l + 1) for _ in range(l + 1)]
-        prev = -100
+        prev = -inf
         for i in range(1,l+1):
             for j in range(1,l+1):
                 if nums1[i-1] == nums2[j-1] and nums1[i-1]!=prev:
