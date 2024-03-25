@@ -2,8 +2,8 @@ class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
         ans =[]
         n=len(nums)
-        for x in nums:
-            x = abs(x)
+        for i in range(n):
+            x = abs(nums[i])
             if nums[x-1]<0:
                 ans.append(x)
             nums[x-1] *= -1
