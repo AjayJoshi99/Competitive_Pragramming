@@ -1,5 +1,19 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
+        ans =[]
+        n=len(nums)
+        for x in nums:
+            x = abs(x)
+            if nums[x-1]<0:
+                ans.append(x)
+            nums[x-1] *= -1
+        return ans
+    
+'''
+#atlernate solution 
+#time comlexity : O(n*log n)
+class Solution:
+    def findDuplicates(self, nums: List[int]) -> List[int]:
         nums.sort()
         ans = []
         temp = 1
@@ -11,5 +25,6 @@ class Solution:
                 temp=1
         if temp ==2: ans.append(nums[-1])
         return ans
+    '''
             
         
