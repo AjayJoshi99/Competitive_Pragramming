@@ -5,6 +5,7 @@ class Solution:
             if stack and abs(ord(stack[-1]) - ord(c)) == 32: stack.pop() 
             else: stack.append(c)
         return "".join(stack)
+    
         # stack = []
         # for i in range(len(s)):
         #     if 'A'<= s[i]<= 'Z' and stack and stack[-1] == s[i].lower():
