@@ -1,13 +1,11 @@
-from queue import Queue
 class Solution:
     def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
-        q = Queue()
         l = len(deck)
         ans = [0]*l
+        q = deque(range(l))
         deck.sort()
-        for i in range(l): q.put(i)
         for i in range(l):
-            ans[q.get()] = deck[i]
-            if not q.empty():q.put(q.get())
+            ans[q.popleft()] = deck[i]
+            if q :q.append(q.popleft())
         return ans
         
