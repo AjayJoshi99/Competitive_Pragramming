@@ -4,15 +4,12 @@ class Solution:
         d = {}
         visited = [0]*n
         
-        
         for i,j in edges:
             if i in d : d[i].append(j)
             else: d[i] = list([j])
                 
             if j in d : d[j].append(i)
             else: d[j] = list([i])
-        
-        
         
         def DFS(k):
             if k not in d: return False
@@ -24,7 +21,6 @@ class Solution:
                     if visited[i]==0:
                         if DFS(i): return True
             return False
-        
         
         return DFS(source)
        
