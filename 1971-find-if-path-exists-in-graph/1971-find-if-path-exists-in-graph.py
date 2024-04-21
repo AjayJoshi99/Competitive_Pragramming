@@ -11,17 +11,16 @@ class Solution:
             if j in d : d[j].append(i)
             else: d[j] = list([i])
         
-        def DFS(k):
-            if k not in d: return False
-            visited[k] = 1
-            for i in d[k]:
-                if i == destination:
-                    return True
-                else:
-                    if visited[i]==0:
-                        if DFS(i): return True
-            return False
+        q = [source]
+        while q:
+            curr = q.pop(0)  
+            if curr == destination:  
+                return True
+            elif curr in d and not visited[curr]:
+                q.extend(d[curr])  
+            visited[curr] = 1 
+        return False 
         
-        return DFS(source)
+        
        
             
