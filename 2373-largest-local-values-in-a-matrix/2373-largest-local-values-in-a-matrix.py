@@ -6,6 +6,8 @@ class Solution:
                 for j in range(c,c+3):
                     if ans < grid[i][j]: ans = grid[i][j]
             return ans
+        
+        
         r = len(grid)
         c = len(grid[0])
         l = [[0]*(r-2) for _ in range(c-2)]
