@@ -8,14 +8,12 @@ class Solution:
             return ans
         r = len(grid)
         c = len(grid[0])
-        l = []
+        l = [[0]*(r-2) for _ in range(c-2)]
         for i in range(r):
             if i+3 > r: break
-            temp = []
             for j in range(c):
                 if j+3 > c: break
-                temp.append(findMax(i,j))
-            l.append(temp)
+                l[i][j] = findMax(i,j)
         return l
                     
                 
