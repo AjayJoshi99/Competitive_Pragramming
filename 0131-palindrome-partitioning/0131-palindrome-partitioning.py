@@ -1,10 +1,11 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
         lst = []
+        l = len(s)
         def palindrome(a):
             return a == a[::-1]
         def dfs(i,curr):
-            if i == len(s):
+            if i == l:
                 lst.append(curr)
                 return 
             for j in range(i,len(s)):
