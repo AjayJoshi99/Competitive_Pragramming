@@ -1,6 +1,5 @@
 class Solution:
     def commonChars(self, words: List[str]) -> List[str]:
-        ans = set()
         d = {}
         for i in words[0]:
             d.update({i:words[0].count(i)})
