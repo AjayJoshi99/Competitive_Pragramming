@@ -8,7 +8,6 @@ class Solution:
             for j in range(i+1, len(nums)):
                 if nums[j] % nums[i] == 0 and len(dp[j]) > len(dp[k]):
                     k = j         
-            dp[i].extend(dp[k])
-            dp[i].append(nums[i])
+            dp[i].extend(dp[k]+[nums[i]])
         
         return max(dp, key = lambda x: len(x))
