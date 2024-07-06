@@ -1,8 +1,8 @@
 class Solution:
     def passThePillow(self, n: int, time: int) -> int:
-        if time <n : return time+1
-        elif time == n: return n-1
+        cycle_length = (n - 1) * 2
+        position_in_cycle = time % cycle_length
+        if position_in_cycle < n:
+            return position_in_cycle + 1
         else:
-            rem = time%(n-1)
-            if (time//(n-1))&1==1: return n-rem
-            return rem+1
+            return 2 * n - position_in_cycle - 1
