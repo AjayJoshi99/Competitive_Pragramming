@@ -7,7 +7,7 @@
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         l = list()
-        def postOrder(node):
+        def postOrder(node : Optional[TreeNode]) -> None:
             if not node: return 
             postOrder(node.left)
             postOrder(node.right)
