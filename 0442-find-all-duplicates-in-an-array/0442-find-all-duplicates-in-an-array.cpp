@@ -5,10 +5,8 @@ public:
         vector<int> ans;
         for(int val:nums){
             m[val]++;
-        }
-        for(pair<int,int> row:m){
-            if(row.second==2){
-                ans.push_back(row.first);
+            if(m[val]>=2){
+                ans.push_back(val);
             }
         }
         return ans;
