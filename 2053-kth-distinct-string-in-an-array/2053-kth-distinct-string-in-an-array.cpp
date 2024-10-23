@@ -5,10 +5,10 @@ public:
         for(string str:arr){
             m[str]++;
         }
-        k-=1;
+        
         for(string str:arr){
             if(m[str]==1){ 
-                if(k==0) return str;
+                if(k==1) return str;
                 k--;
             }
         }
