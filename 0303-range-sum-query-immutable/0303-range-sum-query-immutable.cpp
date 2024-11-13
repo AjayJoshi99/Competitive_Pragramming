@@ -2,9 +2,7 @@ class NumArray {
 public:
     vector<int> n;
     NumArray(vector<int>& nums) {
-        for(int val :nums){
-            n.push_back(val);
-        }
+        n = nums;
     }
     
     int sumRange(int left, int right) {
