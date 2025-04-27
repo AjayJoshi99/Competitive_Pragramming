@@ -63,3 +63,11 @@ Want to contribute?
 
 ---
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+<!---LeetCode Topics End-->
