@@ -69,5 +69,18 @@ Want to contribute?
 ## Array
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+## Binary Search
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
