@@ -69,6 +69,7 @@ Want to contribute?
 ## Array
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
@@ -83,4 +84,8 @@ Want to contribute?
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
