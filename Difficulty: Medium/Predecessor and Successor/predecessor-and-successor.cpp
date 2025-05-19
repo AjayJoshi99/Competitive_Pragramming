@@ -38,24 +38,29 @@ class Node
 class Solution {
   public:
     vector<Node*> findPreSuc(Node* root, int key) {
-        vector<Node*> ans(2,nullptr);
-        helper(root, ans, key);
-        return ans;
-    }
-     void helper(Node* node, vector<Node*> &ans, int key){
-            if(node!=nullptr){
-                if(node->left) helper(node->left,ans, key);
-                int val = node->data;
-                if(val>key){
-                    if(ans[1]!= nullptr && ans[1]->data>val) ans[1] = node;
-                    else if(ans[1]==nullptr) ans[1] = node;
-                }else if(val<key){
-                    if(ans[0]!= nullptr && ans[0]->data<val) ans[0] = node;
-                    else if(ans[0]==nullptr) ans[0] = node;
-                }
-                if(node->right) helper(node->right,ans, key);
+        Node* curr = root;
+        Node* pre = nullptr;
+        Node* succ = nullptr;
+        while(curr){
+            if(curr->data<key){
+                pre = curr;
+                curr = curr->right;
+            }else{
+                curr = curr->left;
             }
         }
+        curr = root;
+        while(curr){
+            if(curr->data>key){
+                succ = curr;
+                curr = curr->left;
+            }else{
+                curr = curr->right;
+            }
+        }
+        return {pre, succ};
+    }
+    
 };
 
 
