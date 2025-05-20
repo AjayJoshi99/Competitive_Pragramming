@@ -75,6 +75,7 @@ Want to contribute?
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3321-type-of-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ Want to contribute?
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3639-zero-array-transformation-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
