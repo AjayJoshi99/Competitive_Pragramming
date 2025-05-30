@@ -1,34 +1,31 @@
 class Solution {
 public:
     int closestMeetingNode(vector<int>& edges, int node1, int node2) {
-    map<int, int> m1, m2;
-    vector<bool> v(edges.size(), false);
-    
-    helper(edges, node1, v, m1);
-    v.assign(edges.size(), false);
-    helper(edges, node2, v, m2);
+    int n = edges.size();
+    vector<int> dist1(n, -1), dist2(n, -1);
+
+    dfs(edges, node1, dist1);
+    dfs(edges, node2, dist2);
 
     int ans = -1;
     int minDist = INT_MAX;
 
-    for (auto& [node, dist1] : m1) {
-        if (m2.count(node)) {
-            int dist2 = m2[node];
-            int maxDist = max(dist1, dist2);
-            if (maxDist < minDist || (maxDist == minDist && node < ans)) {
+    for (int i = 0; i < n; ++i) {
+        if (dist1[i] != -1 && dist2[i] != -1) {
+            int maxDist = max(dist1[i], dist2[i]);
+            if (maxDist < minDist || (maxDist == minDist && i < ans)) {
                 minDist = maxDist;
-                ans = node;
+                ans = i;
             }
         }
     }
     return ans;
 }
-void helper(vector<int>& edges, int i, vector<bool>& visited, map<int, int>& m) {
-    int distance = 0;
-    while (i != -1 && !visited[i]) {
-        visited[i] = true;
-        m[i] = distance++;
-        i = edges[i];
+void dfs(vector<int>& edges, int start, vector<int>& dist) {
+    int d = 0;
+    while (start != -1 && dist[start] == -1) {
+        dist[start] = d++;
+        start = edges[start];
     }
 }
 };
