@@ -1,0 +1,18 @@
+class Solution {
+   public int kthSmallest(int[][] matrix, int k)
+    {
+        int n = matrix.length;
+        int[] oneDimentional = new int[n * n];
+        int index = 0;
+        for(int i=0; i<n; i++)
+        {
+            for(int j=0; j<n; j++)
+            {
+                oneDimentional[index] = matrix[i][j];
+                index++;
+            }
+        }
+        Arrays.sort(oneDimentional);
+        return oneDimentional[k-1];
+    }
+}
