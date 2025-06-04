@@ -73,6 +73,7 @@ Want to contribute?
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -98,6 +99,7 @@ Want to contribute?
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2630-alternating-digit-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3321-type-of-triangle) |
@@ -110,6 +112,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
+| [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sorting
@@ -133,6 +136,7 @@ Want to contribute?
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Depth-First Search
 |  |
