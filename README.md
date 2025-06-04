@@ -70,6 +70,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -118,6 +119,7 @@ Want to contribute?
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3321-type-of-triangle) |
 ## Enumeration
@@ -150,4 +152,8 @@ Want to contribute?
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2058-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
