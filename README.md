@@ -69,6 +69,7 @@ Want to contribute?
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@ Want to contribute?
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
