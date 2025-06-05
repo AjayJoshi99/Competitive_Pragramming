@@ -5,9 +5,7 @@ public:
         for(int num : chalk){
             sum+=num;
         }
-        while(k>=sum){
-            k-=sum;
-        }
+        k = k%sum;
         for(int i = 0; i<chalk.size(); i++){
             if(k<chalk[i]) return i;
             k-=chalk[i];
