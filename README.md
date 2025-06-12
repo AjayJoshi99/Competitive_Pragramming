@@ -74,6 +74,7 @@ Want to contribute?
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0238-product-of-array-except-self) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -112,6 +113,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -141,6 +143,7 @@ Want to contribute?
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -177,6 +180,7 @@ Want to contribute?
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
