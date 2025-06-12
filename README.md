@@ -83,6 +83,7 @@ Want to contribute?
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -113,6 +114,7 @@ Want to contribute?
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -175,6 +177,7 @@ Want to contribute?
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
