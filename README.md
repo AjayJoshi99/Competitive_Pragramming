@@ -72,6 +72,7 @@ Want to contribute?
 | [0001-two-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
@@ -95,6 +96,7 @@ Want to contribute?
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
@@ -149,6 +151,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
 | ------- |
