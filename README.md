@@ -99,6 +99,7 @@ Want to contribute?
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0278-first-bad-version) |
@@ -122,6 +123,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
