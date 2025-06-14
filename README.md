@@ -100,6 +100,7 @@ Want to contribute?
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -203,4 +204,8 @@ Want to contribute?
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
