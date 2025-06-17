@@ -79,6 +79,7 @@ Want to contribute?
 | [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
+| [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -123,6 +124,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
