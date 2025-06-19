@@ -9,5 +9,7 @@ class Solution {
         }
         return sum==num;
         
+        // if(n==153||n==370||n==371||n==407) return true;
+        // return false;
     }
 };
