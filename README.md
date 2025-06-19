@@ -230,6 +230,7 @@ Want to contribute?
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
 ## Interactive
 |  |
@@ -242,5 +243,6 @@ Want to contribute?
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
