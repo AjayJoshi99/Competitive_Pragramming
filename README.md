@@ -137,6 +137,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
@@ -185,6 +186,7 @@ Want to contribute?
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3194-find-words-containing-character) |
 ## Counting
@@ -203,6 +205,7 @@ Want to contribute?
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -243,6 +246,7 @@ Want to contribute?
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0476-number-complement) |
