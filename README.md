@@ -80,6 +80,7 @@ Want to contribute?
 | [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0792-binary-search) |
@@ -209,6 +210,7 @@ Want to contribute?
 | [0027-remove-element](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0283-move-zeroes) |
 ## Number Theory
 |  |
 | ------- |
