@@ -144,6 +144,7 @@ Want to contribute?
 | [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
@@ -237,6 +238,7 @@ Want to contribute?
 | ------- |
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Want to contribute?
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
