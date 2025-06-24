@@ -151,6 +151,7 @@ Want to contribute?
 | [1070-convert-to-base-2](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1070-convert-to-base-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
+| [1965-sum-of-digits-in-base-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1965-sum-of-digits-in-base-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2630-alternating-digit-sum) |
