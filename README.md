@@ -268,4 +268,5 @@ Want to contribute?
 | [0476-number-complement](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1054-complement-of-base-10-integer](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
