@@ -4,6 +4,6 @@ class Solution {
 
     int KthLSB(long long int n, int k) {
         k--;
-        return 1&(n>>k);
+        return (n&(1<<k)) > 0;
     }
 };
