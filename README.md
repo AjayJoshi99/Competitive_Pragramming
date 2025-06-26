@@ -77,6 +77,7 @@ Want to contribute?
 | [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
@@ -262,6 +263,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
