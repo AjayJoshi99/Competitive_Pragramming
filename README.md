@@ -75,6 +75,7 @@ Want to contribute?
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0136-single-number) |
@@ -263,6 +264,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -275,4 +277,8 @@ Want to contribute?
 | [0693-binary-number-with-alternating-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1054-complement-of-base-10-integer](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1054-complement-of-base-10-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
