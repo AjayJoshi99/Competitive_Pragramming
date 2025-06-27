@@ -225,6 +225,7 @@ Want to contribute?
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0088-merge-sorted-array) |
@@ -281,4 +282,8 @@ Want to contribute?
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
