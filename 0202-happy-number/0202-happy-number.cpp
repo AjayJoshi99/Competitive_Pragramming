@@ -1,12 +1,13 @@
 class Solution {
 public:
     bool isHappy(int n) {
-       unordered_set<int> set;
-        while(n!=1 && !set.count(n)){
-            set.insert(n);
-            n = helper(n);
+       int slowPointer = n;
+        int fastPointer = helper(n);
+        while(fastPointer != 1 && fastPointer != slowPointer){
+            slowPointer = helper(slowPointer);
+            fastPointer = helper(helper(fastPointer));
         }
-        return n==1;
+        return fastPointer==1;
     }
     int helper(int n){
         int temp = 0;
