@@ -257,6 +257,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0342-power-of-four) |
@@ -300,6 +301,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0908-middle-of-the-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
