@@ -211,6 +211,7 @@ Want to contribute?
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3194-find-words-containing-character) |
@@ -255,6 +256,7 @@ Want to contribute?
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0338-counting-bits) |
@@ -301,6 +303,7 @@ Want to contribute?
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0078-subsets) |
 ## Linked List
 |  |
