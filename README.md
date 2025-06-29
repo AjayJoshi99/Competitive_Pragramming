@@ -70,6 +70,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -188,6 +189,7 @@ Want to contribute?
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
@@ -234,6 +236,7 @@ Want to contribute?
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0075-sort-colors) |
