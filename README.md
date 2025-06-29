@@ -211,6 +211,7 @@ Want to contribute?
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
