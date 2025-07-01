@@ -164,6 +164,7 @@ Want to contribute?
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1965-sum-of-digits-in-base-k) |
+| [2050-count-good-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2630-alternating-digit-sum) |
@@ -271,6 +272,7 @@ Want to contribute?
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
