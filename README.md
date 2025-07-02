@@ -227,6 +227,7 @@ Want to contribute?
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -319,4 +320,12 @@ Want to contribute?
 | [0237-delete-node-in-a-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0908-middle-of-the-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
