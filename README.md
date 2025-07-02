@@ -227,6 +227,7 @@ Want to contribute?
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
@@ -323,9 +324,15 @@ Want to contribute?
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
