@@ -83,6 +83,7 @@ Want to contribute?
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
@@ -210,6 +211,7 @@ Want to contribute?
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -227,6 +229,7 @@ Want to contribute?
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -335,4 +338,12 @@ Want to contribute?
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
