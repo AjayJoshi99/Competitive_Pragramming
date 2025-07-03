@@ -221,6 +221,7 @@ Want to contribute?
 | [0008-string-to-integer-atoi](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
+| [1250-longest-common-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1250-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3194-find-words-containing-character) |
 ## Counting
@@ -272,6 +273,7 @@ Want to contribute?
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
