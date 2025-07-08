@@ -233,6 +233,7 @@ Want to contribute?
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
@@ -333,11 +334,13 @@ Want to contribute?
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
@@ -347,6 +350,7 @@ Want to contribute?
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
