@@ -91,6 +91,7 @@ Want to contribute?
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
+| [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0792-binary-search) |
@@ -365,8 +366,10 @@ Want to contribute?
 | ------- |
 | [0020-valid-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
