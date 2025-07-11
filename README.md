@@ -238,6 +238,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
@@ -340,12 +341,14 @@ Want to contribute?
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
@@ -366,6 +369,7 @@ Want to contribute?
 | ------- |
 | [0020-valid-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
