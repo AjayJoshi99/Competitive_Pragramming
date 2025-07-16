@@ -242,6 +242,7 @@ Want to contribute?
 | [0110-balanced-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
@@ -352,6 +353,7 @@ Want to contribute?
 | [0110-balanced-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -367,6 +369,7 @@ Want to contribute?
 | [0110-balanced-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
@@ -382,6 +385,7 @@ Want to contribute?
 | [0104-maximum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0774-maximum-depth-of-n-ary-tree) |
