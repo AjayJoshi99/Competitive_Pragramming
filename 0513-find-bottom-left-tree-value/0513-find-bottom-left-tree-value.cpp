@@ -12,25 +12,17 @@
 class Solution {
 public:
     int findBottomLeftValue(TreeNode* root) {
-        queue<TreeNode *> q;
-        int ans ;
-        vector<int> temp;
-        q.push(root);
-        q.push(nullptr);
-        while(!q.empty()){
-            TreeNode *node = q.front();
-            q.pop();
-            if(node==nullptr){
-                ans = temp[0];
-                temp.clear();
-                if(!q.empty()){ q.push(nullptr);}
-            }
-            else{
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
-                temp.push_back(node->val);
-            }
-        }
+        int  ans = 0, lvl = -1;
+        helper(root, lvl, ans, 0);
         return ans;
+    }
+    void helper(TreeNode* root, int &lvl, int &ans, int curr){
+        if(root == nullptr) return;
+        if(lvl<curr){
+            lvl = curr;
+            ans = root->val;
+        }
+        helper(root->left, lvl, ans, curr+1);
+        helper(root->right, lvl, ans, curr+1);
     }
 };
