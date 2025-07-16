@@ -1,17 +1,11 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1">Left View of Binary Tree</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a Binary Tree, return Left view of it. Left view of a Binary Tree is set of nodes visible when tree is visited from Left side. The task is to complete the function <strong>leftView()</strong>, which accepts root of the tree as argument. If no left view is possible, return an empty tree.</span></p>
-<p><span style="font-size: 18px;">Left view of following tree is 1 2 4 8.</span></p>
-<p><span style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /&nbsp;&nbsp;&nbsp;&nbsp; \<br>&nbsp;&nbsp;&nbsp;&nbsp; 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3<br>&nbsp;&nbsp; /&nbsp;&nbsp; &nbsp; \ &nbsp;&nbsp; /&nbsp;&nbsp;&nbsp; \<br>&nbsp; 4&nbsp;&nbsp;&nbsp;&nbsp; 5&nbsp;&nbsp; 6&nbsp;&nbsp;&nbsp; 7<br>&nbsp;&nbsp; \<br>&nbsp;&nbsp;&nbsp;&nbsp; 8&nbsp; &nbsp;</span></p>
-<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input:
-</strong>&nbsp;  1
-&nbsp;/&nbsp; \
-3&nbsp; &nbsp; 2
-<strong>Output: </strong>1 3
-</span>
-</pre>
-<pre><span style="font-size: 18px;"><strong>Input:
-</strong><img style="height: 272px; width: 285px;" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190221103723/leftview.jpg" alt="">
-<strong>Output: </strong>10 20 40
-</span></pre>
-<p><span style="font-size: 18px;"><strong>Expected Time Complexity: </strong>O(N).<br><strong>Expected Auxiliary Space:&nbsp;</strong>O(N).</span></p>
-<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>0 &lt;= Number of nodes &lt;= 10<sup>5</sup><br>0 &lt;= Data of a node &lt;=&nbsp;</span><span style="font-size: 18px;">10</span><sup>5</sup></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Paytm</code>&nbsp;<code>Flipkart</code>&nbsp;<code>Accolite</code>&nbsp;<code>Amazon</code>&nbsp;<code>OYO Rooms</code>&nbsp;<code>Samsung</code>&nbsp;<code>Snapdeal</code>&nbsp;<code>MakeMyTrip</code>&nbsp;<code>Ola Cabs</code>&nbsp;<code>Adobe</code>&nbsp;<code>Qualcomm</code>&nbsp;<code>Twitter</code>&nbsp;<code>Knowlarity</code>&nbsp;<code>Open Solutions</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Tree</code>&nbsp;<code>Data Structures</code>&nbsp;
+<h2><a href="https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1">Left View of Binary Tree</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">You are given the <strong>root </strong>of a binary tree. Your task is to return the <strong><em>left view</em></strong> of the binary tree. The <strong><em>left view</em></strong> of a binary tree is the set of nodes visible when the tree is <strong>viewed</strong> from the <strong>left side</strong>.</span></p>
+<p><span style="font-size: 14pt;">If the tree is empty, return an <strong>empty list</strong>.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>root[] = [1, 2, 3, 4, 5, N, N]
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; white-space: normal;"><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/876845/Web/Other/blobid0_1731456264.png" width="298" height="261"></span>
+<strong>Output:</strong> [<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; white-space: normal;">1, 2, 4]<br></span><strong>Explanation: </strong>From the left side of the tree, only the nodes 1, 2, and 4 are visible.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/876845/Web/Other/blobid1_1731456288.png" width="285" height="260"></span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>root[] = [1, 2, 3, N, N, 4, N, N, 5, N, N]<strong><br></strong><strong><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/876845/Web/Other/blobid2_1731456332.png" width="278" height="332"></strong>
+<strong>Output: </strong>[1, 2, 4, 5]<br><strong>Explanation: </strong>From the left side of the tree, the nodes 1, 2, 4, and 5 are visible.<strong><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/876845/Web/Other/blobid3_1731456373.png" width="260" height="302"><br></strong></span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input:</strong> root[] = [N]
+<strong>Output: </strong>[]</span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraints:</strong><br>0 &lt;= number of nodes &lt;= 10<sup>6</sup><br>0 &lt;= node -&gt; data &lt;= 10<sup>5</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Paytm</code>&nbsp;<code>Flipkart</code>&nbsp;<code>Accolite</code>&nbsp;<code>Amazon</code>&nbsp;<code>OYO Rooms</code>&nbsp;<code>Samsung</code>&nbsp;<code>Snapdeal</code>&nbsp;<code>MakeMyTrip</code>&nbsp;<code>Ola Cabs</code>&nbsp;<code>Adobe</code>&nbsp;<code>Qualcomm</code>&nbsp;<code>Twitter</code>&nbsp;<code>Knowlarity</code>&nbsp;<code>Open Solutions</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Tree</code>&nbsp;<code>Data Structures</code>&nbsp;
