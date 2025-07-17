@@ -153,6 +153,7 @@ Want to contribute?
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0069-sqrtx) |
@@ -186,6 +187,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0202-happy-number) |
@@ -222,6 +224,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
