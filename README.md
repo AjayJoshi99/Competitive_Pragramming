@@ -192,6 +192,7 @@ Want to contribute?
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1319-unique-number-of-occurrences) |
@@ -231,6 +232,7 @@ Want to contribute?
 | [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0205-isomorphic-strings) |
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
 | [1250-longest-common-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1250-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
