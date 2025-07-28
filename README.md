@@ -159,6 +159,7 @@ Want to contribute?
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
@@ -299,6 +300,7 @@ Want to contribute?
 | ------- |
 | [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0338-counting-bits) |
@@ -442,4 +444,8 @@ Want to contribute?
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
