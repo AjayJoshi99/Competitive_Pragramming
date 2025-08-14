@@ -244,6 +244,7 @@ Want to contribute?
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
 | [1250-longest-common-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1250-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3194-find-words-containing-character) |
 ## Counting
 |  |
