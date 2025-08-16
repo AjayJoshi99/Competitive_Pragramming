@@ -1,13 +1,13 @@
 class Solution {
 public:
     int maximum69Number (int num) {
-        string n = to_string(num);
-        for(int i = 0; i<n.size(); i++){
-            if(n[i]=='6'){
-                n[i] = '9';
-                break;
-            }
+        int n = num, idx = -1, temp = -1;
+        while(n){
+            temp++;
+            if(n%10 == 6) idx=temp;
+            n/=10;
         }
-        return stoi(n);
+        if(idx == -1) return num;
+        return num + 3*(pow(10,idx));
     }
 };
