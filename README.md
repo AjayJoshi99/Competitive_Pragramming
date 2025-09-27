@@ -97,6 +97,7 @@ Want to contribute?
 | [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -174,6 +175,7 @@ Want to contribute?
 | [0504-base-7](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0830-largest-triangle-area) |
 | [1070-convert-to-base-2](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1070-convert-to-base-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -458,4 +460,8 @@ Want to contribute?
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
