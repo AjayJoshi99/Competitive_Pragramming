@@ -100,6 +100,7 @@ Want to contribute?
 | [0830-largest-triangle-area](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-koko-eating-bananas) |
+| [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
@@ -176,6 +177,7 @@ Want to contribute?
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1070-convert-to-base-2](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1070-convert-to-base-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -193,6 +195,7 @@ Want to contribute?
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1448-maximum-69-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -221,6 +224,7 @@ Want to contribute?
 | [0088-merge-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
+| [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
