@@ -92,6 +92,7 @@ Want to contribute?
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
@@ -135,6 +136,7 @@ Want to contribute?
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0792-binary-search) |
@@ -301,6 +303,7 @@ Want to contribute?
 | [0151-reverse-words-in-a-string](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0908-middle-of-the-linked-list) |
 ## Number Theory
@@ -354,6 +357,7 @@ Want to contribute?
 | [0201-bitwise-and-of-numbers-range](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0405-convert-a-number-to-hexadecimal) |
