@@ -123,6 +123,7 @@ Want to contribute?
 | [3194-find-words-containing-character](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3321-type-of-triangle) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
@@ -146,6 +147,7 @@ Want to contribute?
 | [1675-magnetic-force-between-two-balls](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Sliding Window
 |  |
 | ------- |
