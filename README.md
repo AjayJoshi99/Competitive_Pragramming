@@ -120,6 +120,7 @@ Want to contribute?
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3194-find-words-containing-character](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3321-type-of-triangle) |
@@ -193,6 +194,7 @@ Want to contribute?
 | [2432-number-of-zero-filled-subarrays](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2630-alternating-digit-sum) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3321-type-of-triangle) |
@@ -203,6 +205,7 @@ Want to contribute?
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1448-maximum-69-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +223,7 @@ Want to contribute?
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
 | ------- |
