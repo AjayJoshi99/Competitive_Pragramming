@@ -94,6 +94,7 @@ Want to contribute?
 | [0283-move-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -262,6 +263,7 @@ Want to contribute?
 | [0151-reverse-words-in-a-string](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0242-valid-anagram) |
+| [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
 | [1250-longest-common-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1250-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -329,6 +331,7 @@ Want to contribute?
 | [0198-house-robber](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0338-counting-bits) |
+| [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [1250-longest-common-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
