@@ -162,6 +162,7 @@ Want to contribute?
 | [0643-maximum-average-subarray-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
@@ -233,6 +234,7 @@ Want to contribute?
 | [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1319-unique-number-of-occurrences) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -278,6 +280,7 @@ Want to contribute?
 | [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
 | [1250-longest-common-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1250-longest-common-subsequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3194-find-words-containing-character) |
