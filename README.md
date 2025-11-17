@@ -103,6 +103,7 @@ Want to contribute?
 | [0830-largest-triangle-area](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -159,6 +160,7 @@ Want to contribute?
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -228,6 +230,7 @@ Want to contribute?
 | [0205-isomorphic-strings](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
+| [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
