@@ -2,19 +2,15 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
         int left = 0, right = 0, mxlen = 0;
-        map<char, int> m;
-
+        vector<int> v(26);
         while(right<s.size()){
-            m[s[right]]++;
-            int maxValue = INT_MIN;
-            for (auto &p : m) {
-                maxValue = max(maxValue, p.second);
-            }
+            v[s[right]-'A']++;
+            int maxValue = *max_element(v.begin(), v.end());
             int temp = right - left + 1 - maxValue;
             if(temp<=k){
                 mxlen = max(mxlen, right-left+1);
             }else{
-                m[s[left]]--;
+                v[s[left]-'A']--;
                 left++;
             }
             right++;
