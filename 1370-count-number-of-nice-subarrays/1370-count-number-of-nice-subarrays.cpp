@@ -1,22 +1,20 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        return helper(nums, k) - helper(nums, k - 1);
-    }
-
-    int helper(vector<int>& n, int k){
-        if (k < 0) return 0;
-        int left = 0, ans = 0, odd = 0;
-
+    int numberOfSubarrays(vector<int>& n, int k) {
+        int left = 0, ans = 0, odd = 0, curr = 0;
         for (int right = 0; right < n.size(); right++) {
-            if ((n[right] & 1) == 1) odd++;
+            if ((n[right] & 1) == 1){ 
+                odd++;
+                curr = 0;
+                }
 
-            while (odd > k) {
+            while (odd == k) {
                 if ((n[left] & 1) == 1) odd--;
                 left++;
+                curr++;
             }
 
-            ans += right - left + 1;
+            ans += curr;
         }
 
         return ans;
