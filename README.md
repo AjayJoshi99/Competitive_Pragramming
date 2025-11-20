@@ -106,6 +106,7 @@ Want to contribute?
 | [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
+| [1034-subarrays-with-k-different-integers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -165,6 +166,7 @@ Want to contribute?
 | [0643-maximum-average-subarray-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -242,6 +244,7 @@ Want to contribute?
 | [0424-longest-repeating-character-replacement](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -299,6 +302,7 @@ Want to contribute?
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Depth-First Search
