@@ -115,6 +115,7 @@ Want to contribute?
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -161,6 +162,7 @@ Want to contribute?
 | [0907-koko-eating-bananas](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
