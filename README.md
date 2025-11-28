@@ -137,6 +137,7 @@ Want to contribute?
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2643-row-with-maximum-ones](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2643-row-with-maximum-ones) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3194-find-words-containing-character](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -300,6 +301,7 @@ Want to contribute?
 | [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
+| [2643-row-with-maximum-ones](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2643-row-with-maximum-ones) |
 ## String
 |  |
 | ------- |
