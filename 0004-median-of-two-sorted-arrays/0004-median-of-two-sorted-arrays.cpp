@@ -1,28 +1,35 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-    int n1 = nums1.size(), n2 = nums2.size();
-    int n = n1 + n2;
+    double findMedianSortedArrays(vector<int>& A, vector<int>& B) {
+        if (A.size() > B.size())            // Ensure A is smaller
+            return findMedianSortedArrays(B, A);
 
-    int i = 0, j = 0;
-    int prev = -1, curr = -1;
+        int n1 = A.size(), n2 = B.size();
+        int low = 0, high = n1;
 
-    for(int k = 0; k <= n/2; k++) {
-        prev = curr;
+        while (low <= high) {
+            int cut1 = (low + high) / 2;        // partition in A
+            int cut2 = (n1 + n2 + 1) / 2 - cut1; // partition in B
 
-        if(i < n1 && (j >= n2 || nums1[i] < nums2[j])) {
-            curr = nums1[i];
-            i++;
-        } else {
-            curr = nums2[j];
-            j++;
+            int l1 = (cut1 == 0) ? INT_MIN : A[cut1 - 1];
+            int r1 = (cut1 == n1) ? INT_MAX : A[cut1];
+
+            int l2 = (cut2 == 0) ? INT_MIN : B[cut2 - 1];
+            int r2 = (cut2 == n2) ? INT_MAX : B[cut2];
+
+            if (l1 <= r2 && l2 <= r1) {
+                if ((n1 + n2) % 2 == 0)
+                    return (max(l1, l2) + min(r1, r2)) / 2.0;
+                else
+                    return max(l1, l2);
+            }
+            else if (l1 > r2)
+                high = cut1 - 1;   // move left
+            else
+                low = cut1 + 1;    // move right
         }
-    }
 
-    if(n % 2 == 1){
-        return curr;               
-    } else {
-        return (prev + curr) / 2.0; 
-    }
-}
+        return 0.0; // should never reach here
+        }
+
 };
