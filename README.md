@@ -130,6 +130,7 @@ Want to contribute?
 | [1603-running-sum-of-1d-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1675-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1901-find-a-peak-element-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -174,6 +175,7 @@ Want to contribute?
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1539-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1675-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1901-find-a-peak-element-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -301,6 +303,7 @@ Want to contribute?
 | [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2643-row-with-maximum-ones) |
 ## String
 |  |
