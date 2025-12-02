@@ -1,21 +1,24 @@
 class Solution {
 public:
-    vector<int> nextGreaterElements(vector<int>& nums) {
-        int n = nums.size(), m = nums.size(), count = 0;
-        vector<int> v(n);
-        stack<int> s;
-        n*=2;
-        for(int i = 0; i<n; i++){
-            while(!s.empty() && nums[i%m]>nums[s.top()]){
-                v[s.top()] = nums[i%m];
-                s.pop();
+    vector<int> nextGreaterElements(vector<int>& a) {
+        int n = a.size();
+        vector<int>v(n,-1);
+
+        stack<int>st;
+        for(int i = 2*n - 1; i >= 0; i--)
+        {
+            while(!st.empty() && (a[i%n] >= st.top()))
+            {
+                st.pop();
             }
-            if (i < m) s.push(i);
+            if(!st.empty() && (i < n))
+            {
+                v[i] = st.top();
+            }
+
+            st.push(a[i%n]);
         }
-        while(!s.empty()){
-            v[s.top()] = -1;
-            s.pop();
-        }
+
         return v;
     }
 };
