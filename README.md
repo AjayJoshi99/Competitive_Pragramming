@@ -135,6 +135,7 @@ Want to contribute?
 | [1901-find-a-peak-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1901-find-a-peak-element-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2058-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2104-sum-of-subarray-ranges) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -521,6 +522,7 @@ Want to contribute?
 | [0232-implement-queue-using-stacks](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -528,6 +530,7 @@ Want to contribute?
 | [0084-largest-rectangle-in-histogram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
