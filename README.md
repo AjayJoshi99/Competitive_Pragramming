@@ -103,6 +103,7 @@ Want to contribute?
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0830-largest-triangle-area) |
@@ -359,6 +360,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -521,6 +523,7 @@ Want to contribute?
 | [0225-implement-stack-using-queues](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
