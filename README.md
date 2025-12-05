@@ -251,6 +251,7 @@ Want to contribute?
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0410-split-array-largest-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -323,6 +324,7 @@ Want to contribute?
 | [0151-reverse-words-in-a-string](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
@@ -522,6 +524,7 @@ Want to contribute?
 | [0155-min-stack](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-sum-of-subarray-minimums) |
@@ -531,6 +534,7 @@ Want to contribute?
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2104-sum-of-subarray-ranges) |
