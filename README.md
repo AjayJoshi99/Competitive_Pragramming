@@ -422,6 +422,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
@@ -461,6 +462,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0206-reverse-linked-list) |
@@ -575,6 +577,7 @@ Want to contribute?
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -584,4 +587,8 @@ Want to contribute?
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
