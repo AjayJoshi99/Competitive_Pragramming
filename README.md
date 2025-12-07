@@ -270,6 +270,7 @@ Want to contribute?
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0242-valid-anagram) |
@@ -461,6 +462,7 @@ Want to contribute?
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0908-middle-of-the-linked-list) |
@@ -548,6 +550,7 @@ Want to contribute?
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0232-implement-queue-using-stacks) |
@@ -577,4 +580,8 @@ Want to contribute?
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
