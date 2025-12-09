@@ -111,6 +111,7 @@ Want to contribute?
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0830-largest-triangle-area) |
+| [0846-hand-of-straights](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-koko-eating-bananas) |
@@ -258,6 +259,7 @@ Want to contribute?
 | ------- |
 | [0402-remove-k-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0410-split-array-largest-sum) |
+| [0846-hand-of-straights](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0846-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1448-maximum-69-number) |
@@ -279,6 +281,7 @@ Want to contribute?
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0424-longest-repeating-character-replacement) |
+| [0846-hand-of-straights](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0846-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1034-subarrays-with-k-different-integers) |
@@ -301,6 +304,7 @@ Want to contribute?
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
+| [0846-hand-of-straights](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0846-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1675-magnetic-force-between-two-balls) |
