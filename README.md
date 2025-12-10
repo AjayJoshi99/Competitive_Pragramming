@@ -105,6 +105,7 @@ Want to contribute?
 | [0410-split-array-largest-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0735-asteroid-collision) |
@@ -259,6 +260,7 @@ Want to contribute?
 | ------- |
 | [0402-remove-k-digits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0846-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -282,6 +284,7 @@ Want to contribute?
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0846-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0966-binary-subarrays-with-sum) |
@@ -305,6 +308,7 @@ Want to contribute?
 | [0268-missing-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0846-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
@@ -353,6 +357,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -601,6 +606,7 @@ Want to contribute?
 | [0295-find-median-from-data-stream](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
