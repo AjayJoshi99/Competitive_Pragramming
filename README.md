@@ -102,6 +102,7 @@ Want to contribute?
 | [0287-find-the-duplicate-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
@@ -607,6 +608,7 @@ Want to contribute?
 | [0295-find-median-from-data-stream](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
