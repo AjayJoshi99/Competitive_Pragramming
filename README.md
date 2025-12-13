@@ -139,6 +139,7 @@ Want to contribute?
 | [1539-kth-missing-positive-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1539-kth-missing-positive-number) |
 | [1603-running-sum-of-1d-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1901-find-a-peak-element-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -296,6 +297,7 @@ Want to contribute?
 | [1370-count-number-of-nice-subarrays](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -314,6 +316,7 @@ Want to contribute?
 | [0846-hand-of-straights](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0846-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3321-type-of-triangle) |
