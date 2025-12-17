@@ -2,25 +2,20 @@ class Solution {
 public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> ans;
-        vector<bool> freq(nums.size());
-        vector<int> curr;
-        helper(nums, ans, curr, freq);
+        helper(nums, ans, 0);
         return ans;
     }
-private : 
-    void helper(vector<int>& nums, vector<vector<int>> &ans, vector<int> &curr, vector<bool> &freq){
-        if(curr.size()==nums.size()){
-            ans.push_back(curr);
+
+private:
+    void helper(vector<int>& nums, vector<vector<int>>& ans, int idx) {
+        if (idx == nums.size()) {
+            ans.push_back(nums);
             return;
         }
-        for(int i = 0; i<nums.size(); i++){
-            if(!freq[i]){
-                freq[i] = true;
-                curr.push_back(nums[i]);
-                helper(nums, ans, curr, freq);
-                freq[i]=false;
-                curr.pop_back();
-            }
+        for (int i = idx; i < nums.size(); i++) {
+            swap(nums[i], nums[idx]);
+            helper(nums, ans, idx + 1);  
+            swap(nums[i], nums[idx]);    
         }
     }
 };
