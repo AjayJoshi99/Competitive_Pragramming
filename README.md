@@ -76,6 +76,7 @@ Want to contribute?
 | [0027-remove-element](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0042-trapping-rain-water) |
@@ -284,6 +285,7 @@ Want to contribute?
 | [0001-two-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0142-linked-list-cycle-ii) |
@@ -337,6 +339,7 @@ Want to contribute?
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0085-maximal-rectangle) |
@@ -493,6 +496,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0046-permutations) |
