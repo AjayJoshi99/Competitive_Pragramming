@@ -235,6 +235,7 @@ Want to contribute?
 | ------- |
 | [0013-roman-to-integer](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0070-climbing-stairs) |
@@ -451,6 +452,7 @@ Want to contribute?
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0326-power-of-three) |
