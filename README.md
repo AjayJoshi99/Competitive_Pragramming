@@ -358,6 +358,7 @@ Want to contribute?
 | [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0242-valid-anagram) |
@@ -438,6 +439,7 @@ Want to contribute?
 | [0070-climbing-stairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0338-counting-bits) |
@@ -503,6 +505,7 @@ Want to contribute?
 | [0051-n-queens](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
