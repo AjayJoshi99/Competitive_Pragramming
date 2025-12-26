@@ -237,6 +237,7 @@ Want to contribute?
 | [0013-roman-to-integer](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0070-climbing-stairs) |
@@ -438,6 +439,7 @@ Want to contribute?
 | [0022-generate-parentheses](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -666,4 +668,8 @@ Want to contribute?
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0295-find-median-from-data-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
