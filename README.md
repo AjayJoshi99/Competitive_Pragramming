@@ -111,6 +111,7 @@ Want to contribute?
 | [0283-move-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0410-split-array-largest-sum) |
@@ -457,6 +458,7 @@ Want to contribute?
 | [0198-house-robber](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
@@ -582,6 +584,7 @@ Want to contribute?
 | [0111-minimum-depth-of-binary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0513-find-bottom-left-tree-value) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0774-maximum-depth-of-n-ary-tree) |
