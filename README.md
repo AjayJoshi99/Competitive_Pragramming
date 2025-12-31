@@ -377,6 +377,7 @@ Want to contribute?
 | [0424-longest-repeating-character-replacement](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
+| [1092-shortest-common-supersequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1092-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -463,6 +464,7 @@ Want to contribute?
 | [0410-split-array-largest-sum](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [0907-sum-of-subarray-minimums](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0907-sum-of-subarray-minimums) |
+| [1092-shortest-common-supersequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1092-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1250-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1463-cherry-pickup-ii) |
 ## Recursion
