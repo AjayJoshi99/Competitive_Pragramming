@@ -2,25 +2,28 @@ class Solution {
 public:
     int minDistance(string word1, string word2) {
         int n = word1.size(), m = word2.size();
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
-        return solve(word1, word2, n, m, dp);
-    }
+        vector<vector<int>> dp(n + 1, vector<int>(m + 1));
 
-private:
-    int solve(string &s1, string &s2, int i, int j, vector<vector<int>> &dp) {
-        if (i == 0) return j;   // insert all j characters
-        if (j == 0) return i;   // delete all i characters
+        for (int i = 0; i <= n; i++)
+            dp[i][0] = i;
 
-        if (dp[i][j] != -1) return dp[i][j];
+        for (int j = 0; j <= m; j++)
+            dp[0][j] = j;
 
-        if (s1[i - 1] == s2[j - 1]) {
-            return dp[i][j] = solve(s1, s2, i - 1, j - 1, dp);
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= m; j++) {
+                if (word1[i - 1] == word2[j - 1]) {
+                    dp[i][j] = dp[i - 1][j - 1];
+                } else {
+                    dp[i][j] = 1 + min({
+                        dp[i][j - 1],   // insert
+                        dp[i - 1][j],   // delete
+                        dp[i - 1][j - 1]// replace
+                    });
+                }
+            }
         }
 
-        int insertOp  = 1 + solve(s1, s2, i,     j - 1, dp);
-        int deleteOp  = 1 + solve(s1, s2, i - 1, j,     dp);
-        int replaceOp = 1 + solve(s1, s2, i - 1, j - 1, dp);
-
-        return dp[i][j] = min({insertOp, deleteOp, replaceOp});
+        return dp[n][m];
     }
 };
