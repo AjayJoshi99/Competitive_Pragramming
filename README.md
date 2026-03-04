@@ -152,6 +152,7 @@ Want to contribute?
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1539-kth-missing-positive-number) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -359,6 +360,7 @@ Want to contribute?
 | [0200-number-of-islands](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0240-search-a-2d-matrix-ii) |
 | [1463-cherry-pickup-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1463-cherry-pickup-ii) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2643-row-with-maximum-ones) |
 ## String
