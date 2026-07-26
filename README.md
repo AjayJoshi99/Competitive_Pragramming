@@ -120,6 +120,7 @@ Want to contribute?
 | [0474-ones-and-zeroes](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0724-find-pivot-index) |
@@ -259,6 +260,7 @@ Want to contribute?
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
@@ -335,6 +337,7 @@ Want to contribute?
 | [0295-find-median-from-data-stream](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0846-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1018-largest-perimeter-triangle) |
