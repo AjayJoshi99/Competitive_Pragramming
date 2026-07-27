@@ -704,4 +704,8 @@ Want to contribute?
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
