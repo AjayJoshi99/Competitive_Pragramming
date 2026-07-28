@@ -348,6 +348,7 @@ Want to contribute?
 | [1675-magnetic-force-between-two-balls](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3321-type-of-triangle) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -395,6 +396,7 @@ Want to contribute?
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3194-find-words-containing-character) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -510,6 +512,7 @@ Want to contribute?
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/1217-relative-sort-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
 | ------- |
