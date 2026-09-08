@@ -281,6 +281,7 @@ Want to contribute?
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3321-type-of-triangle) |
+| [3870-count-commas-in-range](https://github.com/AjayJoshi99/Competitive_Pragramming/tree/master/3870-count-commas-in-range) |
 ## Greedy
 |  |
 | ------- |
